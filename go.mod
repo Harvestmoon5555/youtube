@@ -1,4 +1,4 @@
-module github.com/kkdai/youtube/v2
+module github.com/harvestmoon5555/youtube/v2
 
 go 1.23.0
 
